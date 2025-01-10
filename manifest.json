@@ -1,0 +1,26 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "人狼RPG -Behavior Pack-",
+        "name": "Werewolf RPG -Behavior Pack-",
+        "uuid": "f591b541-de87-4f07-805e-15168895ed82",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 21, 50]
+    },
+    "modules":
+    [
+        {
+            "description": "人狼RPG -Behavior Pack-",
+            "type": "data",
+            "uuid": "d5454ace-664d-4a91-92ed-dc4fe1ebe12e",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies":
+    [
+        {
+            "uuid": "04107cf6-7ab9-4db2-9921-912a856cd430",
+            "version": [1, 0, 0]
+        }
+    ]
+}
