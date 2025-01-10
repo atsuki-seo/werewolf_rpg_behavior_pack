@@ -14,6 +14,13 @@
             "type": "data",
             "uuid": "d5454ace-664d-4a91-92ed-dc4fe1ebe12e",
             "version": [1, 0, 0]
+        },
+        {
+            "description": "人狼RPG -ScriptAPI Pack-",
+            "type": "script",
+            "uuid": "04947e51-653c-4bc6-9295-2ee7811fa2f0",
+            "version": [1, 0, 0],
+            "entry": "scripts/main.js"
         }
     ],
     "dependencies":
@@ -21,6 +28,14 @@
         {
             "uuid": "04107cf6-7ab9-4db2-9921-912a856cd430",
             "version": [1, 0, 0]
+        },
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.16.0"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "1.3.0"
         }
     ]
 }
