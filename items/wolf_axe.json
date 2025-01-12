@@ -18,14 +18,10 @@
       "minecraft:icon": "werewolf-rpg:wolf_axe",
       "minecraft:allow_off_hand": false,
       "minecraft:durability": {
-        "damage_chance": {
-          "min": 10,
-          "max": 50
-        },
         "max_durability": 1
       },
       "minecraft:display_name": {
-        "value": "[人狼RPG] 人狼の斧"
+        "value": "§4[人狼RPG] 人狼の斧"
       },
       "minecraft:glint": true,
       "minecraft:damage": 255
