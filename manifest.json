@@ -20,7 +20,7 @@
             "type": "script",
             "uuid": "04947e51-653c-4bc6-9295-2ee7811fa2f0",
             "version": [1, 0, 0],
-            "entry": "scripts/main.js"
+            "entry": "scripts/Main.js"
         }
     ],
     "dependencies":
